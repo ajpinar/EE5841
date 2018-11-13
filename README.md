@@ -1,2 +1,2 @@
 # EE5841
-Notebooks for EE/CS5341 course
+Notebooks for EE5841
